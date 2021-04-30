@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaiyadAhmedSudipto&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaiyadAhmedSudipto&theme=tokyonight)
