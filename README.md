@@ -1,7 +1,7 @@
 # Hello, I am Faiyad Ahmed Sudipto 🤗
 ## Junior Full-Stack Web Developer
 
-Here are some ideas to get you started:
+Quick Information ABout Me:
 
 - 💡 I’m currently learning JavaScript & React.
 - 📔 I’m currently in class Nine.
