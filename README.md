@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 <img src="https://i.ibb.co/Tv6YMjC/iconfinder-badge-html-5-317755.png" alt="iconfinder-badge-html-5-317755" border="0" height="40">
 <img src="https://i.ibb.co/tMT3BjS/iconfinder-121-css3-4202020.png" alt="iconfinder-121-css3-4202020" border="0" height="40">
 <img src="https://i.ibb.co/tXK4sLS/bootstrap-plain-logo-icon-146619.png" alt="bootstrap-plain-logo-icon-146619" border="0" height="40">
+<img src="https://i.ibb.co/wMmkCgT/iconfinder-React-js-logo-1174949.png" alt="iconfinder-React-js-logo-1174949" border="0">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://i.ibb.co/sQbWQt9/file-type-vscode-icon-130084.png" alt="file-type-vscode-icon-130084" border="0" height="40">
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://i.ibb.co/sQbWQt9/file-type-vscode-icon-130084.png" alt="file-type-vscode-icon-130084" border="0" height="40">
 </p>
